@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Línea diferente desde la copia 2
 Línea diferente desde la copia 2
+=======
+Línea desde la copia 1
+>>>>>>> a1b23a51e0c1c8aed12480dd91edf475860bb332
